@@ -1,0 +1,5 @@
+﻿  calculator.cpp
+C:\Users\18386\Desktop\新建文件夹\dsds\Homework\HW2\calculator\calculator.cpp(56,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\18386\Desktop\新建文件夹\dsds\Homework\HW2\calculator\calculator.cpp(36): warning C4715: “change”: 不是所有的控件路径都返回值
+C:\Users\18386\Desktop\新建文件夹\dsds\Homework\HW2\calculator\calculator.cpp(67): warning C4715: “calcu”: 不是所有的控件路径都返回值
+  calculator.vcxproj -> C:\Users\18386\Desktop\新建文件夹\dsds\Homework\HW2\calculator\x64\Debug\calculator.exe
